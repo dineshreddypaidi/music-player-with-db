@@ -1,0 +1,4 @@
+tkinter
+pygame
+pymongo
+python-dotenv
